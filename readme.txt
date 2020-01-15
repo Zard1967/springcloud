@@ -21,4 +21,4 @@
 28.配置Eureka集群,new module(2个)springcloud-eureka-server-7002/7003, 设置pom.xml
 29.编写启动类，配置application.properties, Eureka集群相互关联
 30.修改服务提供者配置文件，把服务提供者注册在集群中
-31.
+31.jj
