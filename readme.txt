@@ -24,4 +24,4 @@
 
 31.为实现负载均衡，在消费者端添加ribbon与eureka依赖
 32.配置Eureka信息,在启动类加注解
-33.在配置类config配置负载均衡，@LoadBalanced//配置负载均衡实现RestTemplate
+33.在配置类config配置负载均衡，@LoadBalanced配置负载均衡实现RestTemplate
