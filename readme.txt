@@ -21,3 +21,7 @@
 28.配置Eureka集群,new module(2个)springcloud-eureka-server-7002/7003, 设置pom.xml
 29.编写启动类，配置application.properties, Eureka集群相互关联
 30.修改服务提供者配置文件，把服务提供者注册在集群
+
+31.为实现负载均衡，在消费者端添加ribbon与eureka依赖
+32.配置Eureka信息,在启动类加注解
+33.在配置类config配置负载均衡，@LoadBalanced//配置负载均衡实现RestTemplate
